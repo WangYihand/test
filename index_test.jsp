@@ -1,3 +1,0 @@
-<body>
-  GO!<br/>
-</body>
